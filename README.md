@@ -1,1 +1,2 @@
-# C21new
+# collisionAlgorithm
+Algorithm to detect collision between two objects
